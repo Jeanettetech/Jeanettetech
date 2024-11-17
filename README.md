@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on coding an algorithm that implements High Frequency Trading strategies
 - 🌱 I’m currently learning Java via Coding Back Females and UBS
-- 🏆 I have recently completed the University of Helsinki’s (MOOC) on object orientated programming: Java Programming I.
+- 🏆 I have recently completed the University of Helsinki’s (MOOC) on object oriented programming: Java Programming I.
 - 🔍 I am currently looking to switch careers into tech!
 - 😄 Pronouns: She/her
 - 📷 You can connect with me on https://www.instagram.com/thesaucecodeherr
